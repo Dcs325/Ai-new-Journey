@@ -3,7 +3,7 @@ user_name = input("What is your name friend? ")
 
 # Define the special name we're looking for.
 # We'll use 'Gemini' for this example, but you can change it!
-special_name = "Gemini"
+special_name = "Great One"
 
 # --- Introducing the if/else logic ---
 
